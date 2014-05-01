@@ -1,8 +1,10 @@
-TV-Icarus
-=========
+TV-Icarus Project
+=================
 
-TV Shows Guide
+Coded by TuxLyn [GoTux.net]
 
-See demo website here: http://tvicarus.com/
+TV-Icarus is tv show guide script coded in PHP using CodeIgniter.
 
-See releases here: https://github.com/GoTux/TV-Icarus/releases
+* [Wiki](./wiki)
+* [Releases](./releases)
+* [Demo Site](http://tvicarus.com/)
